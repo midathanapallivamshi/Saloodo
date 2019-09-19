@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-#
-#
-# 
 import random
 # Json module import only if we are reading json input reading and currently we are not reading json input and hence commenting out
 # import json
